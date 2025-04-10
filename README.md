@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin3417&label=Profile%20views&color=0e75b6&style=flat" alt="aswin3417" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin3417" alt="aswin3417" /></a> </p>
-
+- 📫 How to reach me **aswinac090@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin3417&show_icons=true&locale=en&layout=compact" alt="aswin3417" /></p>
 
-- 📫 How to reach me **aswinac090@gmail.com**
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin3417&show_icons=true&locale=en" alt="aswin3417" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3417&" alt="aswin3417" /></p>
