@@ -38,8 +38,8 @@
 </div>
 </br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin3417&show_icons=true&locale=en&layout=compact" alt="aswin3417" height="200px"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3417&" alt="aswin3417"height="200px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin3417&show_icons=true&locale=en&layout=compact" alt="aswin3417" height="200px"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3417&" alt="aswin3417"height="200px"/></p>
 </div>
 </br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aswin3417&label=Profile%20views&color=0e75b6&style=flat" alt="aswin3417" /> </p>
