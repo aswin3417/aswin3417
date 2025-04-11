@@ -27,6 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
 </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin3417&show_icons=true&locale=en&layout=compact" alt="Top Languages"  height="200px" />
 </div>
 
 <br>
@@ -43,7 +44,7 @@
 
 <!-- Responsive Stats Section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin3417&show_icons=true&locale=en&layout=compact" alt="Top Languages"  height="200px" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3417" alt="Streak Stats"  height="250px" />
 </div>
 
